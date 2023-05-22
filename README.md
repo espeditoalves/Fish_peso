@@ -1,2 +1,2 @@
-# Fish_peso
-Neste repositório irei criar um modelo de regressão linear para prever o tamanho de peixes baseado em algumas informações
+# Redirecionamento
+Este Repositório é o padrão do Git, para ver o desenvolvimento clique na branch master, Obrigado
