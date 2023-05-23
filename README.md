@@ -1,2 +1,4 @@
-# Fish_peso
-Neste repositório irei criar um modelo de regressão linear para prever o tamanho de peixes baseado em algumas informações
+# REPOSITORIO MASTER DE APOIO AO DESENVOLVIMENTO LOCAL
+* ESTE REPOSITÓRIO É DE APOIO AO DESENVOLVIMENTO DA BRANCH MAIN.
+
+* lOCALMENTE O MASTER DEVERIA SER O PRINCIPAL, MAS COMO O MAIN É O PRINCIPAL NO GITHUB, MEUS REPOSITÓRIOS TERÃO O MAIN COMO PRINCIPAL
