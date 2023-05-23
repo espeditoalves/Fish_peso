@@ -1,3 +1,2 @@
-# Redirecionamento
-Este Repositório é o padrão do Git, para ver o desenvolvimento clique na branch master, Obrigado
-* TESTANDO O COMMIT NA MAIN
+# Fish_peso
+Neste repositório irei criar um modelo de regressão linear para prever o tamanho de peixes baseado em algumas informações
